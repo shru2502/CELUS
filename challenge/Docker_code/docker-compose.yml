@@ -1,0 +1,25 @@
+version: '3'
+
+services:
+    db:
+       build:
+          context: .
+          dockerfile: dockerfile
+          args:
+            PYTHON_VERSION: ${PYTHON_VERSION}
+       image: ${POSTGRES_IMAGE}
+       environment:
+            POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+       volumes:
+          - C:\Program Files\postgres_data:/var/lib/postgresql/data
+       ports:
+          - "5432:5432"
+    pgadmin:
+        image: ${PGADMIN_IMAGE}
+        environment:
+            PGADMIN_DEFAULT_EMAIL: ${PGADMIN_DEFAULT_EMAIL}
+            PGADMIN_DEFAULT_PASSWORD: ${PGADMIN_DEFAULT_PASSWORD}
+        ports:
+          - "8080:8080"
+        depends_on:
+          - db

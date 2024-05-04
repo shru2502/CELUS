@@ -1,0 +1,242 @@
+entry,cake_diameter,diam_unit,flavor,is_cake_vegan,cake_entry_timestamp
+1,21.8830537inches,,RED,FALSE,09-08-23 9:31
+2,13.75, in,Strawberry,Strawberry,11-12-23 12:47
+3,480,,,FALSE,10-06-23 10:24
+4,9.8690561,inches,BUTTER,NO,08-05-23 13:41
+5,17.98,in ,Avocado Cake,0,07-07-23 8:04
+6,251.95554,mm,butter,,12-12-23 7:45
+7,186.9 mm,mm,Babka,,11-03-23 18:44
+8,283.5 mm,,Chiffon Cake,FALSE,11-03-23 5:00
+9,293.04925 mm,MM,chocolate,N/A,03-12-23 11:58
+10,451.4 MM,mm,chokolade,N/A,23-01-23 5:35
+11,418.4,mm,avocado,yes,23-10-23 1:23
+12,15.96,inches,Chiffon Cake,,29-12-23 16:54
+13,24.04in,inches,Strawberry,no,15-11-23 22:15
+14,24.777824,inches,Caramel Cake,FALSE,18-08-23 21:41
+15,231.3mm,,BISCUIT,NO,12-11-23 11:44
+16,15.21,in,BLACKFOREST,Y,11-04-23 7:32
+17,492.28463 mm,mm,avocado,N/A,30-04-23 4:00
+18,7.9989575,inches,VANILLA,FALSE,24-03-23 20:00
+19,"2.43""","""",Chiffon Cake,,11-09-23 0:19
+20,16.7502938,inches,rainbow,t,18-02-23 10:10
+21,514,mm,biscuit,N/A,23-08-23 6:56
+22,12.64,inches,,0,17-12-23 5:31
+23,360,millimeters,Strawbery,,20-11-23 6:08
+24,"5.81""","""",Chiffon,FALSE,20-03-23 1:54
+25,6.3082326,in,BLACKFOREST,6,06-01-23 5:08
+26,435.99012,,APFEL,N/A,30-11-23 12:58
+27,175 mm,mm,N/A,11-05-23 13:38,
+28,398.01697 millimeters,mm,butter,,15-04-23 22:20
+29,211.37809,mm,Avocado,Y,24-03-23 11:06
+30,23.300681,,Chiffon,blue,10-04-23 0:35
+31,588.7,mm,Strawbery,,16-09-23 6:39
+32,518mm,mm,CARAMEL,,22-12-23 14:15
+33,4.8,inches,chokolade,,04-04-23 22:49
+34,301,,baunilha,N/A,18-11-23 11:28
+35,12.58,,N/A,NO,27-01-23 20:43
+36,13.77 in,inches,vanilla,NO,10-12-23 0:58
+37,171.53843mm,mm,butter,FALSE,01-09-23 13:21
+38,342.8,mm,VANILLA,,26-06-23 20:15
+39,513.8 millimeters,mm,N/A,no,22-09-23 22:23
+40,14.3,in,BUTTER,,11-02-23 18:07
+41,382,mm,vanilla cake,no,12-05-23 16:02
+42,196 mm,inches,apple pie,,11-02-23 17:04
+43,534.4mm,,APFEL,YES,16-10-23 10:03
+44,432.3,mm,Avocado Cake,,28-02-23 3:53
+45,537.21803,mm,sponge,,03-10-23 16:52
+46,16.75,inches,butter cake,NO,22-03-23 14:27
+47,21.8325634,inches,apple pie,partially,14-08-23 6:40
+48,196.82931 millimeters,mm,,FALSE,06-07-23 10:44
+49,9.72,inches,chokolade,,13-11-23 17:02
+50,10.66 inches,,BUTTER,TRUE,23-08-23 13:30
+51,223,,baunilha,FALSE,08-04-23 4:11
+52,15.73,inches,,,30-11-23 3:26
+53,6.21,inches,apple,FALSE,09-10-23 9:59
+54,558.53092 mm,mm,CREAM,,26-10-23 10:22
+55,473.5mm,inches,vanilla,,27-10-23 5:31
+56,163mm,millimeters,Strawberry,,04-02-23 12:38
+57,6.89,inches,biscuit,N/A,15-02-23 21:38
+58,534.9,millimeters,RED,0,09-11-23 1:02
+59,581,mm,Avocado,FALSE,24-12-23 14:05
+60,556.2mm,,Chiffon Cake,1,01-02-23 1:23
+61,0.65,,vanilla cake,,07-04-23 18:15
+62,14.83,inches,Caramel Cake,,03-08-23 1:51
+63,314.04175,mm,Caramel,0,13-01-23 14:10
+64,394 MM,inches,sponge,6,11-03-23 0:29
+65,551,,choc,YES,09-07-23 1:07
+66,562.22131 mm,,apple pie,N/A,13-02-23 4:50
+67,248,mm,Caramel,f,22-04-23 4:35
+68,9.9470194 inches,inches,cream,0,19-07-23 3:49
+69,456,mm,b. forest,,03-11-23 6:40
+70,8.68881,inches,biscuit ,FALSE,18-12-23 4:08
+71,392,mm,CREAM,yes,20-08-23 23:33
+72,280,,Chiffon,,09-11-23 4:01
+73,437.0071 mm,,RED,N,04-10-23 0:40
+74,230,mm,carrot,yes,15-12-23 16:30
+75,1.26in,inches,,FALSE,27-05-23 1:17
+76,18.7621759,inches,BLACKFOREST,YES,10-11-23 8:34
+77,"23.25""",in,caramel,,29-12-23 4:33
+78,16.59,inches,vanilla,-1,13-12-23 11:49
+79,10.31 inches,mm,butter cake,YES,19-06-23 20:21
+80,12.81,,rainbow,,03-12-23 23:32
+81,12.8,,sponge,no,02-05-23 18:24
+82,466.9,mm,biscuit ,no,21-09-23 18:13
+83,"19.8874942""",,APPLE,NO,14-09-23 22:14
+84,13.33in,,carrot,,22-07-23 5:30
+85,11.74,,vanilla cake,N/A,05-03-23 0:30
+86,1.2686032,inches,Strawbery,,29-06-23 4:08
+87,11.75 inch,,strawbery,TRUE,22-10-23 19:33
+88,18.57,inches,,N,19-01-23 8:40
+89,7.45 inch,,b. forest,6,21-10-23 0:36
+90,369.5mm,,,N/A,10-10-23 3:29
+91,"6.5824703""",in,Caramel Cake,,15-04-23 1:47
+92,9.31,,b. forest,N/A,12-06-23 3:44
+93,test,test,Strawbery,Not sure,11-05-23 9:10
+94,429.11287,,apple pie,no,01-11-23 5:23
+95,553,mm,chocolate,N/A,09-09-23 1:26
+96,298.01697 millimeters,mm,butter,not in the slightest!!,05-03-23 10:46
+97,7.97inches,inches,biscuit,,27-10-23 11:35
+98,268,,CREAM,no,12-08-23 22:02
+99,575,MM,APPLE,,08-08-23 23:46
+100,6.19inch,inches,,6,24-08-23 23:14
+101,187.49519,,carrot,,04-08-23 6:18
+102,364.54837,mm,Caramel Cake,,14-03-23 8:33
+103,202.1mm,,caramel,,20-03-23 16:23
+104,166.2,    ,BISCUIT,NO,16-07-23 2:27
+105,5.3301284,inches,CREAM,,12-11-23 3:18
+106,16.36,inches,chocolate,FALSE,08-11-23 0:46
+107,211.9 millimeters,mm,APPLE,,16-05-23 15:50
+108,10.2inch,inches,apple,,26-02-23 21:06
+109,329,mm,rainbow,N/A,30-05-23 19:04
+110,22.19,inches  ,Chiffon,,20-02-23 9:23
+111,5.1604952,inches,rainbow,,06-07-23 18:41
+112,18.92762in,18.92762in,18.92762in,18.92762in,22-08-23 2:54
+113,167.33247,mm,14,,18-06-23 11:48
+114,"5.8846421 """,in,strawbery,,24-09-23 3:50
+115,432,,SWBERRY,,26-01-23 12:01
+116,432,,apple,0,27-02-23 8:10
+117,17.63,in,,,01-06-23 2:48
+118,3.8251793,inches,caramel,f,05-07-23 15:58
+119,24.6356199,inches,Avocado,Y,18-08-23 11:25
+120,356.20528,,biscuit,NO,12-03-23 22:27
+121,328.03988mm,,butter,N/A,26-07-23 14:39
+122,17.64 inch,inches,chocolate,,03-07-23 7:35
+123,"12.78 """,inches,,FALSE,10-03-23 14:50
+124,22.21 inch,inches,CREAM,NO,14-07-23 15:15
+125,295.56098 millimeters,,BLACKFOREST,6,16-06-23 0:03
+126,10.8 inches,mm,,no,04-08-23 4:44
+127,429 mm,mm,CREAM,0,12-07-23 5:49
+128,13.43,in,black forest,,17-07-23 2:51
+129,fill this info later,inches,,FALSE,11-04-23 19:10
+130,6.9251056,inches,strawbery,,18-09-23 14:56
+131,266.2,mm,black forest,0.1,08-01-23 13:51
+132,12.3453057,inches,SWBERRY,NO,14-02-23 3:53
+133,16.34 in,,,NO,08-04-23 20:02
+134,"23.28""",inches,,,16-02-23 16:43
+135,456.1,mm,BUTTER_CAKE,yes,04-06-23 4:18
+136,22.590211,inches,APPLE,,06-07-23 21:16
+137,251,mm,Avocado Cake,Y,24-02-23 10:59
+138,4.71,inches,Caramel Cake,FALSE,02-06-23 4:13
+139,"24.09""",inches,,f,23-01-23 5:08
+140,218.24368,mm,vanilla,N,29-11-23 10:41
+141,0.2m,m,carrot,yes,12-06-23 5:25
+142,22.93m,inches,avocado,,19-05-23 22:40
+143,19.19,inches,black forest,no,29-12-23 1:21
+144,"18.7984662""",in,SWBERRY,,05-04-23 16:28
+145,266,millimeters,Caramel,FALSE,11-04-23 4:16
+146,599.78417,MM,BISCUIT,,19-12-23 16:49
+147,42.11287,cake,apple pie,no,09-04-23 10:34
+148,166.941,mm,apple pie,FALSE,25-09-23 0:28
+149,19.79,inches,RED,,22-08-23 10:23
+150,22.69,in,BISCUIT,1,04-02-23 9:12
+151,273.1,mm,BUTTER_CAKE,f,06-12-23 21:57
+152,"21.9 """,inches,Avocado Cake,6,16-07-23 22:55
+153,421.1,mm,Strawbery,,02-01-23 4:09
+154,3.49,inches,butter,,01-09-23 9:17
+155,very large,,butter,,20-06-23 2:35
+156,227,millimeters,SWBERRY,N,16-04-23 8:44
+157,534.6mm,mm,biscuit ,Y,30-11-23 16:05
+158,"24.3589237""",inches,choc,FALSE,24-06-23 11:40
+159,2.85 in,inches,BLACKFOREST,TRUE,10-08-23 20:38
+160,5.16 inch,inches,,NO,23-09-23 14:24
+161,35.328749,,vanilla cake,,03-03-23 16:15
+162,496.53185,millimeters,sponge,,30-07-23 8:10
+163,528.96386 MM,,Chiffon Cake,FALSE,17-09-23 10:30
+164,"12.8""",,Caramel Cake,t,15-11-23 0:58
+165,174.55053,mm,apple,Y,23-11-23 17:06
+166,3.1982887 inches,inches,avocado,,01-05-23 11:22
+167,189.6,millimeters,BISCUIT,,28-10-23 22:19
+168,266,MM,chokolade,no,10-01-23 4:47
+169,8.2284843 inches,inches,black forest,NO,06-01-23 4:52
+170,23.75,inches,Chiffon Cake,0,21-07-23 13:09
+171,591.00988 millimeters,MM,BLACKFOREST,0,01-02-23 16:47
+172,17.5759116inch,inches,vanilla,f,14-11-23 0:45
+173,428.31116 millimeters,inches,BISCUIT,,09-09-23 12:52
+174,24.4502541,inches,,,10-06-23 2:17
+175,351,millimeters,carrot,N/A,30-05-23 14:25
+176,14.31,inches,APPLE,N/A,24-07-23 4:04
+177,14.153215,in,butter,t,03-11-23 8:20
+178,214.61343mm,MM,Avocado Cake,yes,26-05-23 21:11
+179,265,,BUTTER_CAKE,N/A,04-01-23 15:10
+180,11.23inches,mm ,biscuit ,0,02-06-23 16:47
+181,371,mm,BUTTER,FALSE,21-06-23 15:02
+182,214,millimeters,Strawbery,,26-08-23 18:14
+183,21.33,,baunilha,,21-06-23 3:31
+184,260 millimeters,mm,rainbow,,15-03-23 23:50
+185,12.48,inches,cream,N/A,13-09-23 19:58
+186,230.33024,millimeters,N/A,27-11-23 9:31,
+187,196.3,,BUTTER_CAKE,0,11-10-23 23:46
+188,13.96inches,inches,,no,22-08-23 11:04
+189,2,average human head,,no,25-01-23 11:47
+190,15.0069184,inches ,Avocado Cake,6,23-05-23 21:47
+191,275.54087,,chokolade,14,09-04-23 11:13
+192,571,mm,Chiffon,no,09-09-23 9:40
+193,21.4084627,inches,Chiffon Cake,,29-04-23 22:47
+194,488.9 MM,mm,BLACKFOREST,NO,25-08-23 12:01
+195,425.8,mm,apple pie,0,17-02-23 9:47
+196,319.5,mm,BUTTER,0,05-04-23 7:19
+197,0.1719,meters,RED,,08-09-23 13:05
+198,56.640123,,baunilha,,26-09-23 23:10
+199,335.68962 MM,,SWBERRY,FALSE,27-08-23 6:02
+200,514.2,,chocolate,NO,12-07-23 1:40
+201,402,mm,biscuit,,11-05-23 8:38
+202,313,millimeters, biscuit ,0,19-02-23 16:15
+203,4.7152478,,VANILLA ,,18-01-23 10:31
+204,504,,biscuit ,,30-01-23 22:55
+205,2.1631699,in,Strawbery,,03-03-23 22:21
+206,13.9in,inches,biscuit ,,29-01-23 11:11
+207,292,mm,APFEL ,FALSE,10-02-23 11:56
+208,9.2043963,in,strawbery,,22-04-23 5:33
+209,22.24 in,"""",carrot,0,27-09-23 8:12
+210,250.04218,,carrot,0,12-07-23 23:03
+211,18.0199549,inches,Chiffon,NO,02-09-23 15:37
+212,16.62,inches,avocado,FALSE,07-02-23 15:41
+213,14.07,"""",rainbow,Y,10-05-23 10:43
+214,301.7,mm,SWBERRY,TRUE,04-05-23 12:54
+215,2.6792519inches,inches,strawbery,,03-07-23 12:48
+216,11.8875088,inches,b. forest,no,13-04-23 7:15
+217,2.83,inches,chokolade,no,02-11-23 0:26
+218,10.54,in,black forest,,12-03-23 13:28
+219,505,,choc,6,29-07-23 6:59
+220,519385039,millimeters,carrot,NO,25-06-23 9:54
+221,518.40178,mm,Avocado,f,30-12-23 10:57
+222,23.8636638inches,inches,apple,FALSE,15-01-23 4:44
+223,21.9175111,inches,CREAM,TRUE,27-06-23 11:51
+224,14.73,inches,,,05-02-23 9:44
+225,3.42,inches,RED,f,26-02-23 17:05
+226,2.57inches,mm,,inches,19-01-23 21:57
+227,219mm,millimeters,sponge,,01-07-23 17:11
+228,22.9384568,inches,BUTTER,NO,06-04-23 21:42
+229,21.48in,inches,Avocado Cake,NO,10-11-23 22:25
+230,9.05 inch, inches,,no,10-08-23 23:29
+231,198 millimeters,inches,biscuit ,1,19-01-23 19:25
+232,0.5542,m,Babka,,27-01-23 9:13
+233,588.6 millimeters,mm,carrot,f,23-05-23 9:59
+234,440.2,mm,APFEL,,24-10-23 2:18
+235,13.11,inches ,caramel,yes,17-03-23 15:58
+236,555.18474,millimeters,avocado,,02-07-23 19:59
+237,308.1 MM,mm,APFEL,NO,06-01-23 3:52
+238,249.6,mm,Chiffon Cake,N/A,30-07-23 15:34
+239,162.3 mm,MM,Avocado Cake,NO,23-03-23 12:05
+240,351.79509,mm,butter,FALSE,06-06-23 14:00
+241,23.5,inches,BLACKFOREST,,04-03-23 12:09
