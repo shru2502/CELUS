@@ -6,13 +6,13 @@ services:
        environment:
             POSTGRES_PASSWORD: postgres
        volumes:
-          - F:\Shruti\Challenges\CELUS\postgres_data:/var/lib/postgresql/data
+          - .:/var/lib/docker/volume
        ports:
           - "5432:5432"
     pgadmin:
         image: dpage/pgadmin4
         environment:
-            PGADMIN_DEFAULT_EMAIL: chikode44@gmail.com
+            PGADMIN_DEFAULT_EMAIL: root@root1.com
             PGADMIN_DEFAULT_PASSWORD: test123
         ports:
           - "8080:80"
