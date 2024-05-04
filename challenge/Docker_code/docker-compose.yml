@@ -2,18 +2,18 @@ version: '3'
 
 services:
     db:
-       image: postgres
+       image: ${POSTGRES_IMAGE}
        environment:
-            POSTGRES_PASSWORD: postgres
+            POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
        volumes:
           - .:/var/lib/docker/volume
        ports:
           - "5432:5432"
     pgadmin:
-        image: dpage/pgadmin4
+        image: ${PGADMIN_IMAGE}
         environment:
-            PGADMIN_DEFAULT_EMAIL: root@root1.com
-            PGADMIN_DEFAULT_PASSWORD: test123
+            PGADMIN_DEFAULT_EMAIL: ${PGADMIN_DEFAULT_EMAIL}
+            PGADMIN_DEFAULT_PASSWORD: ${PGADMIN_DEFAULT_PASSWORD}
         ports:
           - "8080:80"
         depends_on:
