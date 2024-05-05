@@ -3,6 +3,7 @@ version: '3'
 services:
     db:
        image: ${POSTGRES_IMAGE}
+       network_mode: host
        environment:
             POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
        volumes:
