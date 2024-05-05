@@ -3,7 +3,6 @@ version: '3'
 services:
     db:
        image: ${POSTGRES_IMAGE}
-       network_mode: host
        environment:
             POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
        volumes:
@@ -12,7 +11,6 @@ services:
           - "5432:5432"
     pgadmin:
         image: ${PGADMIN_IMAGE}
-        entrypoint: /entrypoint.sh
         environment:
             PGADMIN_DEFAULT_EMAIL: ${PGADMIN_DEFAULT_EMAIL}
             PGADMIN_DEFAULT_PASSWORD: ${PGADMIN_DEFAULT_PASSWORD}
