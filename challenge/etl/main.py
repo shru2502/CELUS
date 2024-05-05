@@ -1,10 +1,6 @@
 """Run this script to launch the pipeline"""
 
-import os
-# from etl.master import run_etl
-# from dotenv import load_dotenv, dotenv_values
+from etl.master import run_etl
 
-# load_dotenv()
-
-print("hello world")
-
+if __name__ == "__main__":
+    run_etl("cake_data.csv", "postgresql://postgres:postgres@localhost")
